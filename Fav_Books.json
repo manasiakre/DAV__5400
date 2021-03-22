@@ -1,32 +1,32 @@
 {
-    "Favourite Books": [
-        {
-            "Title": "Marketing Research",
-            "Author": [
-              "Alvin C. Burns",
-              "Ann Veeck",
-              "Ronald F. Bush"
-            ],
-            "Year Published": 2017,
-            "Publisher": "Pearson",
-            "Pages": "490"
-        },
-        {
-            "Title": "Consumer Behavior: A Marketer's Look Into the Consumer Mind",
-            "Author": "Radhika Duggal",
-            "Year Published": 2018,
-            "Publisher": "Stukent",
-            "Pages": "224"
-        },
-        {
-            "Title": "Principles of Marketing",
-            "Author": [
-              "Philip Kotler",
-              "Gary Armstrong"
-            ],
-            "Year Published": 2018,
-            "Publisher": "Pearson",
-            "Pages": "736"
-        }
-    ]
+   "Favourite Books":[
+      {
+         "Title":"Marketing Research",
+         "Author":[
+            "Alvin C. Burns",
+            "Ann Veeck",
+            "Ronald F. Bush"
+         ],
+         "Year Published":2017,
+         "Publisher":"Pearson",
+         "Pages":"490"
+      },
+      {
+         "Title":"Consumer Behavior: A Marketer's Look Into the Consumer Mind",
+         "Author":"Radhika Duggal",
+         "Year Published":2018,
+         "Publisher":"Stukent",
+         "Pages":"224"
+      },
+      {
+         "Title":"Principles of Marketing",
+         "Author":[
+            "Philip Kotler",
+            "Gary Armstrong"
+         ],
+         "Year Published":2018,
+         "Publisher":"Pearson",
+         "Pages":"736"
+      }
+   ]
 }
